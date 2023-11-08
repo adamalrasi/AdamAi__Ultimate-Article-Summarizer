@@ -8,7 +8,11 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("https://github.com/adamalrasi")}
+          onClick={() =>
+            window.open(
+              "https://github.com/adamalrasi/AdamAi__Ultimate-Article-Summarizer/tree/main"
+            )
+          }
           className="blue_btn"
         >
           Github
